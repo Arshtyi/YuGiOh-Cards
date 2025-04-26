@@ -2,16 +2,18 @@
 
 # Project Introduction
 
-- A program for collecting and querying Yu-Gi-Oh! card information, currently under development..
-- Relies on the [YGOProDeck API](https://ygoprodeck.com/api-guide/)
+-   A program for collecting and querying Yu-Gi-Oh! card information, currently under development.
+-   Relies on the [YGOProDeck API](https://ygoprodeck.com/api-guide/)
+-   Latest Version: V0.0.0
 
 # Environment and Dependencies
 
-- JDK 21
+-   JDK 21
 
 # Features
 
-- [X] Collect all card information
+-   [x] Collect all card information
+-   [ ] Organize card information
 
 <!-- # Usage
 
